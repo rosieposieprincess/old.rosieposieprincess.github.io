@@ -19,4 +19,4 @@ Rosie Loves her Blog!!!!!
 
 Nolannnnnn!
 
-![No Nolannnnn!!!!]({{site.baseurl}}/https://avatars1.githubusercontent.com/u/10273930?v=3&s=460)
+![No Nolannnnn!!!!](https://avatars1.githubusercontent.com/u/10273930?v=3&s=460)
