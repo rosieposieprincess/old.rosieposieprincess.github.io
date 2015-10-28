@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Rosie is a serious glam blogger with a passion for fashion.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Rosie is all about making $$$ and social media. This is why she created this blog to show off her siq social mediation $killz.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rosie.olivialyon@gmail.com](mailto:rosie.olivialyon@gmail.com)
