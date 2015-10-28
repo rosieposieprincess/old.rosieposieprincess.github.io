@@ -1,11 +1,6 @@
 ---
-published: true
+layout: post
+title: Rosie blog!!!
 ---
 
-
-
-## A New Post
-Hey Rosie!!! How u **like** this _blog_?????
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Rosie Loves her Blog!!!!!
