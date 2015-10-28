@@ -11,9 +11,9 @@ Rosie Loves her Blog!!!!!
 
 [This is my favorite website](www.facebook.com "*Hint: its Facebook")
 
-* Bagpuss
+- Bagpuss
 - Java
-+ Beans
+- Beans
   - Bagpuss loves his Java Beanssss
 
 
